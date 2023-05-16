@@ -5,7 +5,7 @@ function maxIndex(array) {
     return -1;
   }
   let maxIndex = 0;
-  for (let i = 1; i < array.lenght; i++) {
+  for (let i = 1; i < array.length; i++) {
     if (array[i] > array[maxIndex]) {
       maxIndex = i;
     }
