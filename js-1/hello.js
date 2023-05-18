@@ -1,4 +1,4 @@
-//* 1.Ejercicio: Escribir función hola
+//* 1.Ejercicio: Escribir función hola acá:
 
 function hola(nombre) {
   return "hola " + nombre + "!";

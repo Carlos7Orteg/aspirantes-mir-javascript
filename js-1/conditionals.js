@@ -1,4 +1,4 @@
-//* 4.Ejercicio: Corregir la función ya que tiene algunos errores y no está funcionando.
+//* 4.Ejercicio: Corregir la función ya que tiene algunos errores:
 
 function calcularColor(num) {
 var color;
